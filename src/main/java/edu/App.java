@@ -15,6 +15,7 @@ public class App
 
 
         System.out.println("druga zmiana na branchu");
+        System.out.println("druga zmiana na branchu local");
     }
 
 }
