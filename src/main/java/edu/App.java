@@ -9,10 +9,13 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println("branch z brancha!");
+        System.out.println("siema kamil!");
 
-        System.out.println("siema kamil przehuju !");
+        System.out.println("nowy branch");
 
+
+        System.out.println("druga zmiana na branchu");
+        System.out.println("druga zmiana na branchu local");
     }
 
 }
