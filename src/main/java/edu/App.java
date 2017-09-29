@@ -11,5 +11,7 @@ public class App
         System.out.println("siema kamil przehuju !");
 
         System.out.println("dalej robie cos w masterze");
+
+        System.out.println("master");
     }
 }
