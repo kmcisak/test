@@ -13,5 +13,6 @@ public class App
         System.out.println("dalej robie cos w masterze");
 
         System.out.println("master");
+        System.out.println("master");
     }
 }
